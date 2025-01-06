@@ -2,5 +2,12 @@
 #hero {
     height: 600px;
     width: 100% ;
-    background: url("../images/hero-image.webp") no-repeat center center/cover;
+    background: url("assets/images/hero-image.webp") no-repeat center center/cover;
+}
+
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
 }
